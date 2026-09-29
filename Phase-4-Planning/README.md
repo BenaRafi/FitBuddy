@@ -29,7 +29,7 @@
 | Jamuna M | Milestone 2 (Activity 2.2), Milestone 3, Milestone 5 (Activity 5.1) | FastAPI backend (routing and user input), main application logic in routes, prepare local deployment |
 | Pandiselvi | Conclusion | Project conclusion and documentation |
 
-**Trainer / Guide:** _<Premalatha>_
+**Trainer / Guide:Premalatha
 
 ## Risks and Mitigation
 | Risk | Mitigation |
