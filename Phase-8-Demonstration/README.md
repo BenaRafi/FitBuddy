@@ -36,5 +36,5 @@
 ## Submission Links
 | Item | Link |
 |------|------|
-| GitHub Repository (Public) | https://github.com/BenaRafi/FitBuddy.git
+| GitHub Repository (Public) | https://github.com/BenaRafi/FitBuddy
 | Demo Video (Drive) | https://drive.google.com/file/d/1zfRmzG_mks1Ze7XzI4_GR0lQJa-rwztq/view?usp=drivesdk
