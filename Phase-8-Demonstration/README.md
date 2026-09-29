@@ -1,7 +1,7 @@
 # 8. Project Demonstration Phase
 
 ## 🎥 Demo Video
-**Link:**https://drive.google.com/file/d/1zfRmzG_mks1Ze7XzI4_GR0lQJa-rwztq/view?usp=drivesdk
+**Link:**https://drive.google.com/file/d/1zfRmzG_mks1Ze7XzI4_GR0lQJa-rwztq/view
 
 ## Team
 | Member | Explains |
