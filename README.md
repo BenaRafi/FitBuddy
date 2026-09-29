@@ -9,7 +9,7 @@ FitBuddy is a web-based application that uses AI to generate personalized 7-day 
 **Project Type:** Group Project
 **Class:** II BSc Computer Science (2025–26)
 **College:** Tiruppur Kumaran College for Women
-**Demo Video:** _<paste public Google Drive link>_
+**Demo Video:https://drive.google.com/file/d/1zfRmzG_mks1Ze7XzI4_GR0lQJa-rwztq/view?usp=drivesdk
 
 ## 👥 Team Members
 | S.No | Name | Role / Contribution |
@@ -21,7 +21,7 @@ FitBuddy is a web-based application that uses AI to generate personalized 7-day 
 | 5 | Pandiselvi | Conclusion and project documentation |
 
 **Team Lead:** Benazir R
-**Trainer / Guide:** _<trainer name>_
+**Trainer / Guide: Premalatha 
 
 ## 📂 Project Phases
 1. [Brainstorming & Ideation Phase](1-Brainstorming-Ideation-Phase.md)
