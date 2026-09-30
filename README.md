@@ -43,4 +43,4 @@ pip install -r requirements.txt
 # create .env file:  GOOGLE_API_KEY=your_gemini_api_key_here
 uvicorn app.main:app --reload
 ```
-Open http://127.0.0.1:8000 (API docs at `/docs`).
+
