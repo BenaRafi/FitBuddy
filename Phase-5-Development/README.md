@@ -54,9 +54,3 @@ GOOGLE_API_KEY=your_gemini_api_key_here
 - Flexbox layout, media queries, dark theme, Roboto font
 - AI text displayed inside `<pre>` blocks to keep formatting
 
-## Run the Application
-```bash
-uvicorn app.main:app --reload
-```
-- App: http://127.0.0.1:8000
-- API docs: http://127.0.0.1:8000/docs
